@@ -18,6 +18,7 @@ export const NewItemForm = ({ onAdd }: NewItemFormProps) => {
     }
   };
 
+
   return (
     <NewItemFormContainer>
       <NewItemInput
